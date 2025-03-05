@@ -1,7 +1,7 @@
 # hobbysite-cd-1
 
-Biason, Neil Aldous
-Fang, Axel
-De Luna, Matt
-Naguio, Christian
+Biason, Neil Aldous <br> 
+Fang, Axel <br> 
+De Luna, Matt <br> 
+Naguio, Christian <br> 
 Ramoy, Lorenzo Uriel
